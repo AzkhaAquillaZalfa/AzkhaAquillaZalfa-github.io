@@ -2,7 +2,7 @@
 
 ### Language and Tools:
 <p>
-  Java Progaming Language
+  Java Progaming Language, HTML Programing Language
  </p>
 
  ### Stats:
